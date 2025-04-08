@@ -10,6 +10,6 @@ function App() {
       {show && <HelloMessage />}
     </div>
   );
-}
+} 
 
 export default App;
