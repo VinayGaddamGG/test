@@ -1,3 +1,4 @@
 export default function HelloMessage() {
-  return <p>Hello, world!</p>;
-}
+    return <p className="text-xl text-green-600 mt-4">Hello, world!</p>;
+  }
+  
